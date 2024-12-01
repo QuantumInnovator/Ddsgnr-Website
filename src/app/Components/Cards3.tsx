@@ -26,9 +26,9 @@ function Cards3({ imageSrc = "/images/default-avatar.png", name = "Default Name"
 
       {/* Testimonial Text */}
       <p className="text-gray-700 text-sm sm:text-base overflow-hidden">
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+        &quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
         varius enim in eros elementum tristique. Duis cursus, mi quis viverra
-        ornare."
+        ornare.&quot;
       </p>
 
       {/* Profile Information */}
